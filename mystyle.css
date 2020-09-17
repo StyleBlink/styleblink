@@ -17,7 +17,18 @@ body{
 h1{
   font-weight: bold;
 }
+.headTitle2{
+  /* font-weight: bold */
+  font-weight: 700 !important;
+  font-size: 42px;
+}
 
+.featureHeader{
+  font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    text-align: center;
+}
 .brand-logo{
   color: black !important;
   font-weight: bold !important;
